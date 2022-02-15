@@ -1,4 +1,12 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seongjin's%20GitHub&fontSize=90)
+
 ### Hi there 👋
+
+### Technology Stack 🏳‍🌈
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+![Seongjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongjinna&show_icons=true)
 
 <!--
 **seongjinna/seongjinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
